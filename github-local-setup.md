@@ -1,3 +1,4 @@
+# Configure Github on local machine for pushing changes on remote repo
 
 To configure GitHub on your local machine so that you can push changes to a remote repository, you can use the following steps:
 
